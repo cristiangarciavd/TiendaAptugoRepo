@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": ".resumenSubTotal",
+  "parent": "0K4Zbpyn",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "b1PW97w5",
+  "value": "div",
+  "values": {
+    "class": "theme.resumenSubTotal"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "4H5R8UOE",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "B1sB5e3Q",
+  "value": "text",
+  "values": {
+    "Content": "Además, me desempeño como \"Coach C.P.I.\" (acompañamiento personal) y \"Consultor C.P.C.\" (acompañamiento de equipo) en el desarrollo de competencias para el cumplimiento de metas y objetivos a nivel personal y organizacional."
+  }
+}

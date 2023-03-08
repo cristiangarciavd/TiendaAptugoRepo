@@ -1,0 +1,20 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Piso/Departamento",
+  "parent": "3nwZmULT",
+  "path": "field.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "TNfOrf3M",
+  "value": "field",
+  "values": {
+    "Field": "Q7LGGfFH",
+    "Type": "edit",
+    "margin": "normal",
+    "variant": "outlined",
+    "classname": "theme.formularioCampo",
+    "Autofocus": false
+  }
+}

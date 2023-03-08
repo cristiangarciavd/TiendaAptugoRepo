@@ -1,0 +1,19 @@
+{
+  "cascades": false,
+  "name": "Celular",
+  "parent": "3nwZmULT",
+  "path": "field.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "11k9Tc1x",
+  "value": "field",
+  "values": {
+    "Field": "mrEH9skB",
+    "Type": "edit",
+    "margin": "normal",
+    "variant": "outlined",
+    "classname": "theme.formularioCampo",
+    "Autofocus": false
+  }
+}

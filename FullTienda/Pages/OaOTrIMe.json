@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Celular:",
+  "parent": "3nwZmULT",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "OaOTrIMe",
+  "value": "text",
+  "values": {
+    "Content": "Celular:",
+    "ClassName": "theme.textoCampos"
+  }
+}

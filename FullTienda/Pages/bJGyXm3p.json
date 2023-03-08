@@ -1,0 +1,23 @@
+{
+  "cascades": false,
+  "name": "IconButton",
+  "parent": "9mX83WNT",
+  "path": "IconButton.tpl",
+  "prevent_delete": false,
+  "settings": [
+    {
+      "name": "Packages",
+      "value": "\"@fortawesome/fontawesome-svg-core\": \"6.3.0\",\"@fortawesome/free-solid-svg-icons\": \"6.3.0\",\"@fortawesome/react-fontawesome\": \"0.2.0\","
+    }
+  ],
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "bJGyXm3p",
+  "value": "IconButton",
+  "values": {
+    "Action": "handleCloseResumen()",
+    "icon": "Clear",
+    "iconstyle": "Sharp",
+    "className": "theme.botonCerrar"
+  }
+}

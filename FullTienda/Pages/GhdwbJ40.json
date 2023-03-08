@@ -1,0 +1,11 @@
+{
+  "cascades": false,
+  "name": "Content",
+  "parent": "BeGsLtFC",
+  "path": "dialogContent.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "GhdwbJ40",
+  "value": "dialogContent",
+  "values": {}
+}

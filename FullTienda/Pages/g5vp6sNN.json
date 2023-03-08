@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Barrio/Distrito:",
+  "parent": "3nwZmULT",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "g5vp6sNN",
+  "value": "text",
+  "values": {
+    "Content": "Barrio/Distrito:",
+    "ClassName": "theme.textoCampos"
+  }
+}

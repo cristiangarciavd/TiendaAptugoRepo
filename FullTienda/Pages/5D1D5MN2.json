@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Open dialog",
+  "parent": "349xaF3N",
+  "path": "function.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "5D1D5MN2",
+  "value": "function",
+  "values": {
+    "functionName": "handleOpenResumen",
+    "functionParameters": "",
+    "functionBody": ""
+  }
+}

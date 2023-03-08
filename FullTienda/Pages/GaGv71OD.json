@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Entregas a domicilio en todo ...",
+  "parent": "VaKzcreK",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "GaGv71OD",
+  "value": "text",
+  "values": {
+    "Content": "Entregas a domicilio en todo ..."
+  }
+}

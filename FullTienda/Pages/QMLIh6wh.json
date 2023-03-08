@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": ".formularioCupones",
+  "parent": "g35g8orT",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "QMLIh6wh",
+  "value": "div",
+  "values": {
+    "class": "theme.formularioCupones"
+  }
+}

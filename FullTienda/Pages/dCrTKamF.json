@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Forma de Pago:",
+  "parent": "rNiA2Cwx",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "dCrTKamF",
+  "value": "text",
+  "values": {
+    "Content": "Forma de Pago:",
+    "ClassName": "theme.textoCampos",
+    "className": "theme.formaDePagoTitle"
+  }
+}

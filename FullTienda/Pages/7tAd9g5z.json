@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Ciudad:",
+  "parent": "3nwZmULT",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "7tAd9g5z",
+  "value": "text",
+  "values": {
+    "Content": "Ciudad:",
+    "ClassName": "theme.textoCampos"
+  }
+}

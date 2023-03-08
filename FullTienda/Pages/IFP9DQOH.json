@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Table Toolbar",
+  "parent": "5mUpZwAE",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "IFP9DQOH",
+  "value": "div",
+  "values": {
+    "class": "theme.tabletoolbar"
+  }
+}

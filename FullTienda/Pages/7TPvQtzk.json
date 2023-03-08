@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "navLink",
+  "parent": "OZRb5VXq",
+  "path": "navLink.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "7TPvQtzk",
+  "value": "navLink",
+  "values": {
+    "Destination": "/database",
+    "destination": "/database",
+    "linkText": "Database"
+  }
+}

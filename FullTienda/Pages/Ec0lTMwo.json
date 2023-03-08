@@ -1,0 +1,20 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Domicilio",
+  "parent": "3nwZmULT",
+  "path": "field.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "Ec0lTMwo",
+  "value": "field",
+  "values": {
+    "Field": "ESpo3A6T",
+    "Type": "edit",
+    "margin": "normal",
+    "variant": "outlined",
+    "classname": "theme.formularioCampo",
+    "Autofocus": false
+  }
+}

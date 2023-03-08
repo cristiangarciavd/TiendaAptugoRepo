@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Función de seteo Domicilio",
+  "parent": "AOH8uXyy",
+  "path": "function.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "glT5qgzO",
+  "value": "function",
+  "values": {
+    "functionName": "sendDatosDePedidos",
+    "functionParameters": "",
+    "functionBody": "let data= {...DatosDePedidosdata}\nsetDatosDePedidosData({ ...initialDataDatosDePedidos })"
+  }
+}

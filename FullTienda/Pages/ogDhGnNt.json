@@ -1,0 +1,12 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Content",
+  "parent": "BeGsLtFC",
+  "path": "dialogContent.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ogDhGnNt",
+  "value": "dialogContent",
+  "values": {}
+}

@@ -1,0 +1,19 @@
+{
+  "cascades": false,
+  "name": "Ciudad",
+  "parent": "3nwZmULT",
+  "path": "field.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "vuUFIu9m",
+  "value": "field",
+  "values": {
+    "Field": "oEbHCm3a",
+    "Type": "edit",
+    "margin": "normal",
+    "variant": "outlined",
+    "classname": "theme.formularioCampo",
+    "Autofocus": false
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Función fin de pedido",
+  "parent": "AOH8uXyy",
+  "path": "function.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "JxxmbL8W",
+  "value": "function",
+  "values": {
+    "functionName": "sendResumenPedido",
+    "functionParameters": "",
+    "functionBody": "let data= {...ResumenesPedidosdata}\nsetResumenesPedidosData({ ...initialDataResumenesPedidos })"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Función de seteo Cupon",
+  "parent": "AOH8uXyy",
+  "path": "function.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "UPR08Uo0",
+  "value": "function",
+  "values": {
+    "functionName": "sendDatosDeCupon",
+    "functionParameters": "",
+    "functionBody": "let data= {...Cuponesdata}\nsetCuponesData({ ...initialDataCupones })"
+  }
+}

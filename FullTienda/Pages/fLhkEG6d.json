@@ -1,0 +1,19 @@
+{
+  "cascades": false,
+  "name": "FormaDePago",
+  "parent": "rNiA2Cwx",
+  "path": "field.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "fLhkEG6d",
+  "value": "field",
+  "values": {
+    "Field": "5nCKZZFe",
+    "Type": "edit",
+    "margin": "normal",
+    "variant": "outlined",
+    "classname": "theme.formularioPagoCampo",
+    "Autofocus": false
+  }
+}

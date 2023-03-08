@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Encabezado resumen",
+  "parent": "9mX83WNT",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "P7xhyEDe",
+  "value": "div",
+  "values": {
+    "class": "theme.formularioEncabezadoResumen"
+  }
+}

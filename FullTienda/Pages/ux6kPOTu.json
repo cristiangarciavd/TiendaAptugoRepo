@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Mensaje de Alerta",
+  "parent": "avw9Gd9m",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "ux6kPOTu",
+  "value": "div",
+  "values": {
+    "class": "theme.formularioAlerta"
+  }
+}

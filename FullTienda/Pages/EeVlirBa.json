@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "Boton de continuar",
+  "parent": "0bAdsyae",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "EeVlirBa",
+  "value": "button",
+  "values": {
+    "className": "theme.botonContinuar",
+    "Action": "handleOpenResumen(); sendDatosDePedidos()",
+    "Variant": "contained",
+    "ButtonText": "Continuar",
+    "icon": "Send"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "datosPedido",
+  "parent": "CKwpQaQZ",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "q28fKN9S",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.datosPedido"
+  }
+}

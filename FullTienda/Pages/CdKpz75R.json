@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Open dialog",
+  "parent": "ACECKDA6",
+  "path": "function.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "CdKpz75R",
+  "value": "function",
+  "values": {
+    "functionName": "handleOpenCupones",
+    "functionParameters": "",
+    "functionBody": ""
+  }
+}

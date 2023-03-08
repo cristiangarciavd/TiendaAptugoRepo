@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Head",
+  "parent": "RiRzTIov",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "6QEIm3NT",
+  "value": "div",
+  "values": {
+    "class": "theme.tableHeading"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Boton de Envío",
+  "parent": "avw9Gd9m",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "0bAdsyae",
+  "value": "div",
+  "values": {
+    "class": "theme.formularioBoton"
+  }
+}

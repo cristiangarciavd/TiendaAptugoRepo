@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": ".ventanaResumen",
+  "parent": "Dx2PxtUF",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "9mX83WNT",
+  "value": "div",
+  "values": {
+    "class": "theme.ventanaResumen"
+  }
+}

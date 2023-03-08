@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Close dialog",
+  "parent": "349xaF3N",
+  "path": "function.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "5tpm38dh",
+  "value": "function",
+  "values": {
+    "functionName": "handleCloseResumen",
+    "functionParameters": "",
+    "functionBody": ""
+  }
+}

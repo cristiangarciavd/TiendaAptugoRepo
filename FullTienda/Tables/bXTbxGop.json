@@ -1,0 +1,100 @@
+{
+  "definedRoutes": [
+    {
+      "route_name": "Get all records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}",
+      "route_code": null,
+      "route_template": "get"
+    },
+    {
+      "route_name": "Search records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}/search",
+      "route_code": null,
+      "route_template": "search"
+    },
+    {
+      "route_name": "Retrieve a single record",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "getone"
+    },
+    {
+      "route_name": "Add a record",
+      "route_active": true,
+      "route_method": "post",
+      "route_path": "/api/{{ table.name|friendly|lower }}",
+      "route_code": null,
+      "route_template": "add"
+    },
+    {
+      "route_name": "Update a record",
+      "route_active": true,
+      "route_method": "put",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "update"
+    },
+    {
+      "route_name": "Delete a record",
+      "route_active": true,
+      "route_method": "delete",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "delete"
+    }
+  ],
+  "fields": [
+    {
+      "column_name": "SubTotal",
+      "data_type": "Number",
+      "key": "Auto Number",
+      "unique_id": "o0UcyZe3",
+      "length": "11",
+      "displaylabel": "Sub-Total"
+    },
+    {
+      "data_type": "Number",
+      "column_name": "DescuentoCupon",
+      "unique_id": "CDqWAsWy",
+      "displaylabel": "Descuento Cupón"
+    },
+    {
+      "data_type": "Number",
+      "column_name": "Envio",
+      "unique_id": "JUwfAD9k",
+      "displaylabel": "Envío"
+    },
+    {
+      "data_type": "Number",
+      "column_name": "Total",
+      "unique_id": "Fba0TBvD",
+      "displaylabel": "Total"
+    },
+    {
+      "data_type": "Dropdown",
+      "column_name": "FormaPago",
+      "unique_id": "5nCKZZFe",
+      "displaylabel": "Forma de Pago",
+      "options": "EFECTIVO;CRÉDITO;DÉBITO;MP;MODO;PAGO FÁCIL;RAPIPAGO"
+    },
+    {
+      "data_type": "String",
+      "column_name": "PedidoDelResumen",
+      "unique_id": "oKbGFdQt",
+      "displaylabel": "Pedido del Resumen"
+    }
+  ],
+  "name": "ResumenesPedidos",
+  "singleName": "ResumenPedido",
+  "subtype": "Aptugo",
+  "type": "table",
+  "unique_id": "bXTbxGop",
+  "x": 490,
+  "y": 30
+}

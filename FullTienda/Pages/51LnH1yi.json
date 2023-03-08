@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "updateStateVariable",
+  "parent": "y5FfC6de",
+  "path": "updateStateVariable.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "51LnH1yi",
+  "value": "updateStateVariable",
+  "values": {
+    "variable": "openCupones",
+    "newvalue": "false"
+  }
+}

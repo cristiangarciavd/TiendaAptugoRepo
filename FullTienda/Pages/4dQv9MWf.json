@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "Boton de finalizar",
+  "parent": "bPB2DS5R",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "4dQv9MWf",
+  "value": "button",
+  "values": {
+    "className": "theme.botonFinalizar",
+    "Action": "sendResumenPedido()",
+    "Variant": "contained",
+    "ButtonText": "Finalizar Pedido",
+    "icon": "Send"
+  }
+}

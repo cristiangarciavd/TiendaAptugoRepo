@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Nombre y Apellido:",
+  "parent": "3nwZmULT",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "HD7ebVkI",
+  "value": "text",
+  "values": {
+    "Content": "Nombre y Apellido:",
+    "ClassName": "theme.textoCampos"
+  }
+}

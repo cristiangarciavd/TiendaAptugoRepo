@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Encabezado Cupones",
+  "parent": "g35g8orT",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "iaudm5dy",
+  "value": "div",
+  "values": {
+    "class": "theme.formularioEncabezadoCupones"
+  }
+}

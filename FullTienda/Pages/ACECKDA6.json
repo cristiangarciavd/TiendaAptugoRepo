@@ -1,0 +1,11 @@
+{
+  "cascades": false,
+  "name": "Abrir ventana emergente Cupones",
+  "parent": "0KLyJSTf",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ACECKDA6",
+  "value": "dummyEncloser",
+  "values": {}
+}

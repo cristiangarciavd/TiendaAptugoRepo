@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "edUxDCIm",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ZNz89F2O",
+  "value": "text",
+  "values": {
+    "Content": "Mi objetivo es transformar a las personas que ingresan en nuestro equipo en importantes líderes, vendedoras o distribuidoras."
+  }
+}

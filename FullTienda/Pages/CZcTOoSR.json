@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "ecHwyISf",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "CZcTOoSR",
+  "value": "text",
+  "values": {
+    "Content": "Te invito a que nos conozcas y seas parte de esta gran familia."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": ".presentacionTexto",
+  "parent": "g35g8orT",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "tQ2dLGUA",
+  "value": "div",
+  "values": {
+    "class": "theme.presentacionTexto"
+  }
+}

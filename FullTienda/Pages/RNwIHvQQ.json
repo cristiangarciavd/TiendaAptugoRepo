@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Si tenés un cupón...",
+  "parent": "QMLIh6wh",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "RNwIHvQQ",
+  "value": "text",
+  "values": {
+    "Content": "Si tenés un cupón de descuento, ingresa el código aquí:",
+    "ClassName": "theme.textoCampos",
+    "className": "theme.formularioCuponDescripcion"
+  }
+}

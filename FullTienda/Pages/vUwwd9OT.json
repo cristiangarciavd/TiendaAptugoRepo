@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": ".FormaPago",
+  "parent": "9mX83WNT",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "vUwwd9OT",
+  "value": "div",
+  "values": {
+    "class": "theme.FormaPago"
+  }
+}

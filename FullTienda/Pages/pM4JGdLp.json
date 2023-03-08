@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "display": "Save to Database",
+  "name": "Save Cupones to Database",
+  "parent": "UPR08Uo0",
+  "path": "saveToRedux.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "pM4JGdLp",
+  "value": "saveToRedux",
+  "values": {
+    "data": "9lMTgCyB"
+  }
+}

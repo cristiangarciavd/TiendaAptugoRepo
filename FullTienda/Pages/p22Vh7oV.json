@@ -1,0 +1,11 @@
+{
+  "cascades": false,
+  "name": "Content",
+  "parent": "nhRWXBL2",
+  "path": "dialogContent.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "p22Vh7oV",
+  "value": "dialogContent",
+  "values": {}
+}

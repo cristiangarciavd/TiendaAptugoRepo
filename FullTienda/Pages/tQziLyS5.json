@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Variable Open",
+  "parent": "349xaF3N",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "tQziLyS5",
+  "value": "useState",
+  "values": {
+    "variableName": "openResumen",
+    "defaultValue": "false"
+  }
+}

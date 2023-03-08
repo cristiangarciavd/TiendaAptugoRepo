@@ -1,0 +1,16 @@
+{
+  "cascades": true,
+  "collapseStatus": "expand",
+  "name": "sidebar",
+  "parent": "15os8ZTp",
+  "path": "sidebar.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "OZRb5VXq",
+  "value": "sidebar",
+  "values": {
+    "colorSchema": "Greens",
+    "open": "true"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "updateStateVariable",
+  "parent": "5D1D5MN2",
+  "path": "updateStateVariable.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "cRL5WehU",
+  "value": "updateStateVariable",
+  "values": {
+    "variable": "openResumen",
+    "newvalue": "true"
+  }
+}

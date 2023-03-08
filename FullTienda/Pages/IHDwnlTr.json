@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "table",
+  "parent": "05Pc6goG",
+  "path": "table.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "IHDwnlTr",
+  "value": "table",
+  "values": {
+    "table": "bXTbxGop",
+    "editProcedure": "Internal",
+    "title": "Table Title",
+    "headerColor": "rose"
+  }
+}

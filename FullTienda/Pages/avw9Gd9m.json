@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "formularioDomicilio",
+  "parent": "q28fKN9S",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "avw9Gd9m",
+  "value": "div",
+  "values": {
+    "class": "theme.formularioDomicilio"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "C2HtBXrg",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "hkdcxdXh",
+  "value": "text",
+  "values": {
+    "Content": "Mi nombre es Ester Varacca."
+  }
+}

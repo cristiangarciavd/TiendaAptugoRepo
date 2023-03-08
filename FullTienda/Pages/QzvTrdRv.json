@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "display": "Save to Database",
+  "name": "Save DatosDePedidos to Database",
+  "parent": "JxxmbL8W",
+  "path": "saveToRedux.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "QzvTrdRv",
+  "value": "saveToRedux",
+  "values": {
+    "data": "bXTbxGop"
+  }
+}

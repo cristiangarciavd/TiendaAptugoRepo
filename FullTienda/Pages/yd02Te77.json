@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "resumenPedido",
+  "parent": "CKwpQaQZ",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "yd02Te77",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "id": "",
+    "class": "theme.resumenPedido"
+  }
+}

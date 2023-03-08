@@ -1,0 +1,11 @@
+{
+  "cascades": false,
+  "name": "Title",
+  "parent": "BeGsLtFC",
+  "path": "dialogTitle.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "4nDfpoLH",
+  "value": "dialogTitle",
+  "values": {}
+}

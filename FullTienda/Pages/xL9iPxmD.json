@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Datos de Pedido",
+  "parent": "hB8aJ1yi",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "xL9iPxmD",
+  "value": "text",
+  "values": {
+    "Content": "Datos de Pedido"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Resumen de Pedido",
+  "parent": "5iT3X6Vh",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "Ki3P86Je",
+  "value": "text",
+  "values": {
+    "Content": "Resumen de Pedido"
+  }
+}

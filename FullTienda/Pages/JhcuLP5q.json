@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Mail:",
+  "parent": "3nwZmULT",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "JhcuLP5q",
+  "value": "text",
+  "values": {
+    "Content": "Mail:",
+    "ClassName": "theme.textoCampos"
+  }
+}

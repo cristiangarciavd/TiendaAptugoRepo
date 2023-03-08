@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Cupón de Descuento",
+  "parent": "tWb5C1Tz",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "DnNqHSpl",
+  "value": "text",
+  "values": {
+    "Content": "Cupón de Descuento"
+  }
+}

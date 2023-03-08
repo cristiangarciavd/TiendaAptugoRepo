@@ -1,0 +1,19 @@
+{
+  "cascades": false,
+  "name": "Mail",
+  "parent": "3nwZmULT",
+  "path": "field.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "9K7H4Xnh",
+  "value": "field",
+  "values": {
+    "Field": "5aq32v7n",
+    "Type": "edit",
+    "margin": "normal",
+    "variant": "outlined",
+    "classname": "theme.formularioCampo",
+    "Autofocus": false
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "cascades": false,
+  "name": "IconButton",
+  "parent": "TPhFbozy",
+  "path": "IconButton.tpl",
+  "prevent_delete": false,
+  "settings": [
+    {
+      "name": "Packages",
+      "value": "\"@fortawesome/fontawesome-svg-core\": \"6.3.0\",\"@fortawesome/free-solid-svg-icons\": \"6.3.0\",\"@fortawesome/react-fontawesome\": \"0.2.0\","
+    }
+  ],
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "pxeGaZw2",
+  "value": "IconButton",
+  "values": {
+    "Action": "handleOpenCupones()",
+    "icon": "Add",
+    "iconstyle": "Sharp",
+    "className": "theme.botonAbrirCupones"
+  }
+}

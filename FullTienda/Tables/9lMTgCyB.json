@@ -1,0 +1,88 @@
+{
+  "contracted": false,
+  "definedRoutes": [
+    {
+      "route_name": "Get all records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}",
+      "route_code": null,
+      "route_template": "get"
+    },
+    {
+      "route_name": "Search records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}/search",
+      "route_code": null,
+      "route_template": "search"
+    },
+    {
+      "route_name": "Retrieve a single record",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "getone"
+    },
+    {
+      "route_name": "Add a record",
+      "route_active": true,
+      "route_method": "post",
+      "route_path": "/api/{{ table.name|friendly|lower }}",
+      "route_code": null,
+      "route_template": "add"
+    },
+    {
+      "route_name": "Update a record",
+      "route_active": true,
+      "route_method": "put",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "update"
+    },
+    {
+      "route_name": "Delete a record",
+      "route_active": true,
+      "route_method": "delete",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "delete"
+    }
+  ],
+  "fields": [
+    {
+      "column_name": "Cupon_ID",
+      "data_type": "String",
+      "key": "Auto Number",
+      "unique_id": "lnp12up0",
+      "length": "11",
+      "displaylabel": ""
+    },
+    {
+      "data_type": "Number",
+      "column_name": "Descuento",
+      "unique_id": "PsRfQt5t",
+      "displaylabel": "Descuento"
+    },
+    {
+      "data_type": "Boolean",
+      "column_name": "Habilitado",
+      "unique_id": "T6aGIAxK",
+      "displaylabel": "Habilitado"
+    },
+    {
+      "data_type": "String",
+      "column_name": "PedidoAsociado",
+      "unique_id": "4Rm7Lvm3",
+      "displaylabel": "Pedido Asociado"
+    }
+  ],
+  "name": "Cupones",
+  "singleName": "Cupon",
+  "subtype": "Aptugo",
+  "type": "table",
+  "unique_id": "9lMTgCyB",
+  "x": 260,
+  "y": 30
+}

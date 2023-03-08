@@ -1,0 +1,115 @@
+{
+  "definedRoutes": [
+    {
+      "route_name": "Get all records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}",
+      "route_code": null,
+      "route_template": "get"
+    },
+    {
+      "route_name": "Search records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}/search",
+      "route_code": null,
+      "route_template": "search"
+    },
+    {
+      "route_name": "Retrieve a single record",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "getone"
+    },
+    {
+      "route_name": "Add a record",
+      "route_active": true,
+      "route_method": "post",
+      "route_path": "/api/{{ table.name|friendly|lower }}",
+      "route_code": null,
+      "route_template": "add"
+    },
+    {
+      "route_name": "Update a record",
+      "route_active": true,
+      "route_method": "put",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "update"
+    },
+    {
+      "route_name": "Delete a record",
+      "route_active": true,
+      "route_method": "delete",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "delete"
+    }
+  ],
+  "fields": [
+    {
+      "data_type": "String",
+      "column_name": "NombreYApellido",
+      "unique_id": "ASteVzgM",
+      "displaylabel": "Nombre y Apellido",
+      "validators.required": false
+    },
+    {
+      "data_type": "String",
+      "column_name": "Mail",
+      "unique_id": "5aq32v7n",
+      "displaylabel": "Mail",
+      "validators.required": false,
+      "validators.validEmail": false,
+      "validators.unique": false
+    },
+    {
+      "data_type": "String",
+      "column_name": "Celular",
+      "unique_id": "mrEH9skB",
+      "displaylabel": "Celular",
+      "validators.required": false
+    },
+    {
+      "data_type": "String",
+      "column_name": "Domicilio",
+      "unique_id": "ESpo3A6T",
+      "displaylabel": "Domicilio",
+      "validators.required": false
+    },
+    {
+      "data_type": "String",
+      "column_name": "PisoDepartamento",
+      "unique_id": "Q7LGGfFH",
+      "displaylabel": "Piso/Departamento"
+    },
+    {
+      "data_type": "String",
+      "column_name": "BarrioDistrito",
+      "unique_id": "f5sZFb6M",
+      "displaylabel": "Barrio/Distrito"
+    },
+    {
+      "data_type": "String",
+      "column_name": "Ciudad",
+      "unique_id": "oEbHCm3a",
+      "displaylabel": "Ciudad"
+    },
+    {
+      "data_type": "String",
+      "column_name": "IDPedido",
+      "unique_id": "9xtPfoKX",
+      "displaylabel": "ID de pedido"
+    }
+  ],
+  "name": "DatosDePedidos",
+  "singleName": "DatosDePedido",
+  "subtype": "Aptugo",
+  "type": "table",
+  "unique_id": "c6D3zyUm",
+  "x": 31,
+  "y": 30
+}

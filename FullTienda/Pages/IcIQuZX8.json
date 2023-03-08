@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "rT5n4agZ",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "IcIQuZX8",
+  "value": "text",
+  "values": {
+    "Content": "Soy Directora Nacional de Desarrollo en Bioesencia."
+  }
+}

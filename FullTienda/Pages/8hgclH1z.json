@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "autolinking",
+  "parent": "OZRb5VXq",
+  "path": "autolinking.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "8hgclH1z",
+  "value": "autolinking",
+  "values": {
+    "fromLink": "qgyrHg6T"
+  }
+}

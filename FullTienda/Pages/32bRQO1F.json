@@ -1,0 +1,11 @@
+{
+  "cascades": false,
+  "name": "Actions",
+  "parent": "BeGsLtFC",
+  "path": "dialogActions.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "32bRQO1F",
+  "value": "dialogActions",
+  "values": {}
+}

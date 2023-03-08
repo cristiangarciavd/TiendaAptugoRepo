@@ -1,0 +1,12 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Abrir ventana emergente Resumen",
+  "parent": "0KLyJSTf",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "349xaF3N",
+  "value": "dummyEncloser",
+  "values": {}
+}

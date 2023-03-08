@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Variable Open",
+  "parent": "ACECKDA6",
+  "path": "useState.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "b1iJWOSz",
+  "value": "useState",
+  "values": {
+    "variableName": "openCupones",
+    "defaultValue": "false"
+  }
+}

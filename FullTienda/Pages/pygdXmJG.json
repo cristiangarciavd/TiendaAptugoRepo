@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": ".resumenCuponTexto",
+  "parent": "D6oNTMun",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "pygdXmJG",
+  "value": "div",
+  "values": {
+    "class": "theme.resumenCuponTexto"
+  }
+}

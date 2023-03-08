@@ -1,0 +1,12 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Content",
+  "parent": "nhRWXBL2",
+  "path": "dialogContent.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Dx2PxtUF",
+  "value": "dialogContent",
+  "values": {}
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": ".presentacion Imagen",
+  "parent": "g35g8orT",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "pMqIDRww",
+  "value": "div",
+  "values": {
+    "class": "theme.presentacionImagen"
+  }
+}

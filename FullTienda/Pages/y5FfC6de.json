@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Close dialog",
+  "parent": "ACECKDA6",
+  "path": "function.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "y5FfC6de",
+  "value": "function",
+  "values": {
+    "functionName": "handleCloseCupones",
+    "functionParameters": "",
+    "functionBody": ""
+  }
+}

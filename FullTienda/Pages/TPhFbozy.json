@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": ".resumenCuponBoton",
+  "parent": "D6oNTMun",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "TPhFbozy",
+  "value": "div",
+  "values": {
+    "class": "theme.resumenCuponBoton"
+  }
+}

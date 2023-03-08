@@ -1,0 +1,31 @@
+{
+  "cascades": false,
+  "childs": [
+    {
+      "name": "Title",
+      "element": "dialogTitle"
+    },
+    {
+      "name": "Content",
+      "element": "dialogContent"
+    },
+    {
+      "name": "Actions",
+      "element": "dialogActions"
+    }
+  ],
+  "collapseStatus": "expand",
+  "name": "Cupon",
+  "parent": "CKwpQaQZ",
+  "path": "popupDialog.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "BeGsLtFC",
+  "value": "popupDialog",
+  "values": {
+    "open": "openCupones",
+    "maxWidth": "'xl'",
+    "className": "theme.dialogoCupon"
+  }
+}

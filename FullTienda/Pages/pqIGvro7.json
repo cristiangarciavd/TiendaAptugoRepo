@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "Boton de aplicar cupon",
+  "parent": "RqPy93Ph",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "pqIGvro7",
+  "value": "button",
+  "values": {
+    "className": "theme.botonAplicarCupon",
+    "Action": "handleCloseCupones(); sendDatosDeCupon()",
+    "Variant": "contained",
+    "ButtonText": "Aplicar Cupón",
+    "icon": "Send"
+  }
+}

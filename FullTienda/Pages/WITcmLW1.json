@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "button",
+  "parent": "ux6kPOTu",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "WITcmLW1",
+  "value": "button",
+  "values": {
+    "className": "theme.botonUnite",
+    "Action": "suscribe(); setopenSnackbar(true)",
+    "Variant": "contained",
+    "ButtonText": "QUIERO SER PARTE",
+    "icon": "Send"
+  }
+}

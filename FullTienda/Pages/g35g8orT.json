@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": ".ventanaCupon",
+  "parent": "ogDhGnNt",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "g35g8orT",
+  "value": "div",
+  "values": {
+    "class": "theme.ventanaCupon"
+  }
+}

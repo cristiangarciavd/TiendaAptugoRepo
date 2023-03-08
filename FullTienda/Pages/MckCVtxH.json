@@ -1,0 +1,20 @@
+{
+  "cascades": false,
+  "name": "Nombre y Apellido",
+  "parent": "3nwZmULT",
+  "path": "field.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "MckCVtxH",
+  "value": "field",
+  "values": {
+    "Field": "ASteVzgM",
+    "Type": "edit",
+    "margin": "normal",
+    "variant": "outlined",
+    "classname": "theme.formularioCampo",
+    "Autofocus": false,
+    "DisableUnderline": false
+  }
+}

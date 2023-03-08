@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Alerta Monto",
+  "parent": "DSL9ChHV",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "JcoMAyv1",
+  "value": "text",
+  "values": {
+    "Content": "El monto mínimo para realizar un pedido es de $3200. Por favor agregá más productos a tu compra."
+  }
+}

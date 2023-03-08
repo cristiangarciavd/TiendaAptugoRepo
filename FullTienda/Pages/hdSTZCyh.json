@@ -1,0 +1,19 @@
+{
+  "cascades": false,
+  "name": "Cupon",
+  "parent": "QMLIh6wh",
+  "path": "field.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "hdSTZCyh",
+  "value": "field",
+  "values": {
+    "Field": "lnp12up0",
+    "Type": "edit",
+    "margin": "normal",
+    "variant": "outlined",
+    "classname": "theme.losCampos",
+    "Autofocus": false
+  }
+}

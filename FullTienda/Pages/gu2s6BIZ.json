@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": ".resumenEnvio",
+  "parent": "0K4Zbpyn",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "gu2s6BIZ",
+  "value": "div",
+  "values": {
+    "class": "theme.resumenEnvio"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Piso/Departamento:",
+  "parent": "3nwZmULT",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "PS6JrTvE",
+  "value": "text",
+  "values": {
+    "Content": "Piso/Departamento:",
+    "ClassName": "theme.textoCampos"
+  }
+}

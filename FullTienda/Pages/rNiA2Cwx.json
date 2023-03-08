@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": ".formaPagoOpciones",
+  "parent": "vUwwd9OT",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "rNiA2Cwx",
+  "value": "div",
+  "values": {
+    "class": "theme.formaPagoOpciones"
+  }
+}

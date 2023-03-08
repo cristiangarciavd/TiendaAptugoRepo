@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Boton de Aceptar Cupon",
+  "parent": "g35g8orT",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "RqPy93Ph",
+  "value": "div",
+  "values": {
+    "class": "theme.formularioBotonCupon"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Domicilio:",
+  "parent": "3nwZmULT",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "mpRteen2",
+  "value": "text",
+  "values": {
+    "Content": "Domicilio:",
+    "ClassName": "theme.textoCampos"
+  }
+}

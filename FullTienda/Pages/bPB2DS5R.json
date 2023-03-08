@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "collapseStatus": "expand",
+  "name": "Boton de Resumen",
+  "parent": "vUwwd9OT",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "bPB2DS5R",
+  "value": "div",
+  "values": {
+    "class": "theme.formularioBotonResumen"
+  }
+}

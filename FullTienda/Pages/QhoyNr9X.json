@@ -1,0 +1,19 @@
+{
+  "cascades": false,
+  "name": "Barrio/Distrito",
+  "parent": "3nwZmULT",
+  "path": "field.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "QhoyNr9X",
+  "value": "field",
+  "values": {
+    "Field": "f5sZFb6M",
+    "Type": "edit",
+    "margin": "normal",
+    "variant": "outlined",
+    "classname": "theme.formularioCampo",
+    "Autofocus": false
+  }
+}
